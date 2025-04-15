@@ -10,8 +10,6 @@ Preprocessing of missing data within the **Wiki4HE dataset** to enhance data qua
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
